@@ -1,5 +1,7 @@
 package com.example.kpo_javafx.Controller;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import com.example.kpo_javafx.Entity.EntityOrdersHistory;
 import com.example.kpo_javafx.Entity.EntitySalad;
 import com.example.kpo_javafx.HelloApplication;
@@ -13,11 +15,12 @@ import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.stage.Stage;
 
+
 import java.io.IOException;
 
 public class MainController {
     static EntityOrdersHistory order = new EntityOrdersHistory();
-
+    final static Logger logger = LogManager.getLogger(MainController.class);
     @FXML
     private Button AddCezarButton;
 
@@ -48,8 +51,10 @@ public class MainController {
         PriceTotalButton.setOnAction(event -> {
             TotalPriceLabel.setText("Cумма к оплате: " + RestaurantService.totalPrice(order) + "$");
             try {
+                logger.info("Function for calling total price calculation");
                 PriceService.writePrice(RestaurantService.totalPrice(order));
             } catch (IOException e) {
+                logger.error("An error occurred",e);
                 throw new RuntimeException(e);
             }
         });
