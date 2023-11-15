@@ -16,10 +16,11 @@ import javafx.scene.control.Label;
 import javafx.stage.Stage;
 
 
-import java.io.IOException;
+import java.io.*;
 
 public class MainController {
     static EntityOrdersHistory order = new EntityOrdersHistory();
+
     final static Logger logger = LogManager.getLogger(MainController.class);
     @FXML
     private Button AddCezarButton;
@@ -46,8 +47,29 @@ public class MainController {
         AddCezarButton.setOnAction(event -> {order.getOrderHistory().add(new EntitySalad("Цезарь", 300, 200, 20));});
         AddKrabButton.setOnAction(event -> {order.getOrderHistory().add(new EntitySalad("Крабовый", 600, 200, 35));});
         AddMimozaButton.setOnAction(event -> {order.getOrderHistory().add(new EntitySalad("Мимоза", 400, 200, 35));});
-        AddOlivieButton.setOnAction(event -> {order.getOrderHistory().add(new EntitySalad("Оливье", 800, 200, 15));});
-        AddVinegretButton.setOnAction(event -> {order.getOrderHistory().add(new EntitySalad("Винегрет", 150, 200, 10));});
+        //AddOlivieButton.setOnAction(event -> {order.getOrderHistory().add(new EntitySalad("Оливье", 800, 200, 15));});
+        AddOlivieButton.setOnAction(event ->{
+            try {
+                ObjectOutputStream objectOutputStream = new ObjectOutputStream(new FileOutputStream("Custom_menu.txt"));
+                objectOutputStream.writeObject(order);
+                objectOutputStream.close();
+                ObjectInputStream objectInputStream = new ObjectInputStream(new FileInputStream("Custom_menu.txt"));
+                order = (EntityOrdersHistory) objectInputStream.readObject();
+                order.getOrderHistory().add(new EntitySalad("Оливье", 800, 200, 15));
+                objectInputStream.close();
+            } catch (IOException | ClassNotFoundException e) {
+                throw new RuntimeException(e);
+            }
+        });
+        //AddVinegretButton.setOnAction(event -> {order.getOrderHistory().add(new EntitySalad("Винегрет", 150, 200, 10));});
+        AddVinegretButton.setOnAction(event -> {
+            try {
+                EntitySalad.serialisation(new EntitySalad("Винегрет",150,200,10));
+                order.getOrderHistory().add(EntitySalad.deserealisation());
+            } catch (Exception e) {
+                System.out.println("Error");
+            }
+        });
         PriceTotalButton.setOnAction(event -> {
             TotalPriceLabel.setText("Cумма к оплате: " + RestaurantService.totalPrice(order) + "$");
             try {

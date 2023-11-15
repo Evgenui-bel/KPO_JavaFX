@@ -26,3 +26,419 @@
 16:13:28.175 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by115$
 16:13:28.175 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price115$
 16:13:28.176 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+12:20:48.309 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by20$
+12:20:48.312 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by55$
+12:20:48.313 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by65$
+12:20:48.313 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by80$
+12:20:48.313 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by115$
+12:20:48.313 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price115$
+12:20:48.314 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+12:20:48.314 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by20$
+12:20:48.314 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by55$
+12:20:48.314 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by65$
+12:20:48.315 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by80$
+12:20:48.315 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by115$
+12:20:48.315 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price115$
+12:20:48.316 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+12:21:48.206 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+12:21:48.209 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 25$
+12:21:48.209 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 60$
+12:21:48.209 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 80$
+12:21:48.209 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 115$
+12:21:48.210 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 115$
+12:21:48.210 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+12:21:48.210 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+12:21:48.210 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 25$
+12:21:48.211 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 60$
+12:21:48.211 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 80$
+12:21:48.211 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 115$
+12:21:48.211 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 115$
+12:21:48.212 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+16:51:01.778 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+16:51:01.780 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+16:51:01.780 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+16:51:01.780 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 100$
+16:51:01.780 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 115$
+16:51:01.781 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 115$
+16:51:01.781 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+16:51:01.781 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+16:51:01.782 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+16:51:01.782 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+16:51:01.782 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 100$
+16:51:01.782 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 115$
+16:51:01.782 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 115$
+16:51:01.783 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+16:51:06.654 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+16:51:06.654 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+16:51:06.654 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+16:51:06.654 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 100$
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 115$
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 150$
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 160$
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 160$
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 100$
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 115$
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 150$
+16:51:06.655 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 160$
+16:51:06.656 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 160$
+16:51:06.656 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+16:51:08.959 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+16:51:08.959 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+16:51:08.959 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+16:51:08.959 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 100$
+16:51:08.959 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 115$
+16:51:08.959 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 150$
+16:51:08.959 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 160$
+16:51:08.959 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 180$
+16:51:08.959 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 195$
+16:51:08.959 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 195$
+16:51:08.960 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+16:51:08.960 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+16:51:08.960 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+16:51:08.960 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+16:51:08.960 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 100$
+16:51:08.960 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 115$
+16:51:08.960 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 150$
+16:51:08.960 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 160$
+16:51:08.960 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 180$
+16:51:08.960 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 195$
+16:51:08.961 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 195$
+16:51:08.961 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+16:51:10.344 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+16:51:10.344 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+16:51:10.344 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+16:51:10.344 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 100$
+16:51:10.344 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 115$
+16:51:10.344 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 150$
+16:51:10.344 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 160$
+16:51:10.344 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 180$
+16:51:10.344 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 195$
+16:51:10.344 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 230$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 230$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 100$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 115$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 150$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 160$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 180$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 195$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 230$
+16:51:10.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 230$
+16:51:10.346 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:35:59.159 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:35:59.160 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 10$
+18:35:59.161 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:35:59.161 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:35:59.161 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 10$
+18:35:59.162 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:36:16.081 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:36:16.081 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 20$
+18:36:16.082 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:36:16.082 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 40$
+18:36:16.082 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 50$
+18:36:16.082 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 50$
+18:36:16.082 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:36:16.082 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:36:16.082 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 20$
+18:36:16.082 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:36:16.082 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 40$
+18:36:16.082 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 50$
+18:36:16.082 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 50$
+18:36:16.083 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:53:58.759 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:53:58.761 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 10$
+18:53:58.762 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:53:58.762 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:53:58.762 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 10$
+18:53:58.763 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:46:18.645 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 0$
+17:46:18.646 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:46:18.646 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 0$
+17:46:18.649 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:46:20.433 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 0$
+17:46:20.433 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:46:20.434 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 0$
+17:46:20.434 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:46:23.009 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:23.009 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+17:46:23.009 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:46:23.009 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:23.009 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+17:46:23.010 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:46:26.586 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:26.586 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+17:46:26.586 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:46:26.586 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:26.586 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+17:46:26.586 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:46:29.290 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:29.291 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+17:46:29.291 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:46:29.291 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:29.291 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+17:46:29.291 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:46:31.333 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:31.333 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+17:46:31.333 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:46:31.334 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:31.334 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+17:46:31.334 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:46:35.142 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:35.143 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+17:46:35.143 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:46:35.143 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:35.143 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+17:46:35.143 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:46:36.687 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:36.688 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+17:46:36.688 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 70$
+17:46:36.688 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:46:36.688 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:36.688 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+17:46:36.688 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 70$
+17:46:36.688 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:46:38.323 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:38.323 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+17:46:38.323 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 70$
+17:46:38.324 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:46:38.324 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:38.324 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+17:46:38.324 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 70$
+17:46:38.324 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:46:39.879 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:39.879 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+17:46:39.879 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+17:46:39.879 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 90$
+17:46:39.879 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:46:39.880 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+17:46:39.880 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+17:46:39.880 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+17:46:39.880 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 90$
+17:46:39.880 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:47:29.993 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 0$
+17:47:29.996 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:47:29.996 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 0$
+17:47:29.997 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:47:32.855 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 0$
+17:47:32.855 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:47:32.855 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 0$
+17:47:32.855 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:48:12.601 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+17:48:12.603 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 10$
+17:48:12.603 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:48:12.604 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+17:48:12.604 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 10$
+17:48:12.604 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:48:14.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+17:48:14.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 20$
+17:48:14.345 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 20$
+17:48:14.346 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:48:14.346 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+17:48:14.346 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 20$
+17:48:14.346 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 20$
+17:48:14.346 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:48:16.517 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+17:48:16.517 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 20$
+17:48:16.517 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 20$
+17:48:16.517 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:48:16.517 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+17:48:16.518 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 20$
+17:48:16.518 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 20$
+17:48:16.518 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:48:19.376 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+17:48:19.376 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 20$
+17:48:19.376 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+17:48:19.376 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 55$
+17:48:19.376 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:48:19.377 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+17:48:19.377 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 20$
+17:48:19.377 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+17:48:19.377 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 55$
+17:48:19.377 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+17:48:20.617 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+17:48:20.617 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 20$
+17:48:20.617 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+17:48:20.617 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 65$
+17:48:20.617 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 65$
+17:48:20.617 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+17:48:20.617 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+17:48:20.617 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 20$
+17:48:20.617 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 55$
+17:48:20.618 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 65$
+17:48:20.618 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 65$
+17:48:20.618 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:00:31.664 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:31.666 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+18:00:31.667 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:00:31.667 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:31.667 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 35$
+18:00:31.668 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:00:33.230 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:33.231 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+18:00:33.231 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 70$
+18:00:33.231 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:00:33.231 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:33.231 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+18:00:33.231 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 70$
+18:00:33.231 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:00:34.502 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:34.503 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+18:00:34.503 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 80$
+18:00:34.503 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 80$
+18:00:34.503 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:00:34.503 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:34.503 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+18:00:34.503 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 80$
+18:00:34.503 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 80$
+18:00:34.504 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:00:36.094 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:36.095 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+18:00:36.095 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 80$
+18:00:36.095 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+18:00:36.095 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 90$
+18:00:36.095 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:00:36.095 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:36.095 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+18:00:36.095 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 80$
+18:00:36.095 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+18:00:36.095 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 90$
+18:00:36.096 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:00:37.293 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:37.294 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+18:00:37.294 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 80$
+18:00:37.294 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+18:00:37.294 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 90$
+18:00:37.294 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:00:37.294 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:37.294 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+18:00:37.294 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 80$
+18:00:37.294 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+18:00:37.294 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 90$
+18:00:37.295 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:00:38.971 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:38.971 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+18:00:38.971 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 80$
+18:00:38.971 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+18:00:38.971 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 110$
+18:00:38.971 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 110$
+18:00:38.971 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:00:38.971 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 35$
+18:00:38.971 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 70$
+18:00:38.971 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 80$
+18:00:38.972 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 90$
+18:00:38.972 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 110$
+18:00:38.972 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 110$
+18:00:38.972 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:52:47.993 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 0$
+18:52:47.995 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:52:47.995 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 0$
+18:52:47.997 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:52:55.114 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:52:55.114 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 10$
+18:52:55.115 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:52:55.115 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:52:55.115 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 10$
+18:52:55.115 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:52:56.796 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:52:56.796 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 45$
+18:52:56.796 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 45$
+18:52:56.796 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:52:56.796 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:52:56.797 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 45$
+18:52:56.797 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 45$
+18:52:56.797 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:52:58.234 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:52:58.234 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 45$
+18:52:58.234 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 65$
+18:52:58.234 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 65$
+18:52:58.234 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:52:58.234 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:52:58.234 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 45$
+18:52:58.234 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 65$
+18:52:58.234 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 65$
+18:52:58.235 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:52:59.646 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:52:59.647 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 45$
+18:52:59.647 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 65$
+18:52:59.647 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 100$
+18:52:59.647 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 100$
+18:52:59.647 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:52:59.647 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 10$
+18:52:59.647 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 45$
+18:52:59.647 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 65$
+18:52:59.647 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 100$
+18:52:59.647 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 100$
+18:52:59.648 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:54:52.962 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:54:52.963 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 15$
+18:54:52.964 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:54:52.964 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:54:52.964 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 15$
+18:54:52.965 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:54:55.253 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:54:55.253 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:54:55.253 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 30$
+18:54:55.253 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:54:55.254 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:54:55.254 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:54:55.254 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 30$
+18:54:55.254 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:54:56.716 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:54:56.716 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:54:56.716 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 40$
+18:54:56.716 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 40$
+18:54:56.717 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:54:56.717 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:54:56.717 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:54:56.717 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 40$
+18:54:56.717 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 40$
+18:54:56.717 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:54:58.137 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:54:58.137 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:54:58.137 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 40$
+18:54:58.137 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 75$
+18:54:58.137 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 75$
+18:54:58.137 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:54:58.137 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:54:58.137 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:54:58.137 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 40$
+18:54:58.138 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 75$
+18:54:58.138 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 75$
+18:54:58.138 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:54:59.845 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:54:59.846 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:54:59.846 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 40$
+18:54:59.846 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 75$
+18:54:59.846 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 110$
+18:54:59.846 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 110$
+18:54:59.846 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:54:59.846 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:54:59.847 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:54:59.847 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 40$
+18:54:59.847 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 75$
+18:54:59.847 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 110$
+18:54:59.847 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 110$
+18:54:59.847 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.
+18:55:01.264 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:55:01.264 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:55:01.264 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 40$
+18:55:01.264 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 75$
+18:55:01.264 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 110$
+18:55:01.264 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 130$
+18:55:01.264 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 130$
+18:55:01.264 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Controller.MainController - Function for calling total price calculation
+18:55:01.264 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 15$
+18:55:01.264 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 30$
+18:55:01.265 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 40$
+18:55:01.265 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 75$
+18:55:01.265 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 110$
+18:55:01.265 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - The price increased by 130$
+18:55:01.265 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.RestaurantService - Total price 130$
+18:55:01.265 [JavaFX Application Thread] INFO  com.example.kpo_javafx.Service.PriceService - The total price was successfully written to the file.

@@ -13,9 +13,9 @@ public class RestaurantService {
         int price = 0;
         for (EntitySalad entity : order.getOrderHistory()) {
             price += entity.getPrice();
-            logger.info("The price increased by" + price + "$");
+            logger.info("The price increased by " + price + "$");
         }
-        logger.info("Total price" + price + "$");
+        logger.info("Total price " + price + "$");
         return price;
     }
 }
