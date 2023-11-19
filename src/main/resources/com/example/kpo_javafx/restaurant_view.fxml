@@ -37,7 +37,7 @@
             <Image url="@assets/krabovyi-salat-klassicheskii-bez-risa_1611409506_9_max.jpg" />
          </image>
       </ImageView>
-      <Label contentDisplay="TOP" layoutX="377.0" layoutY="25.0" prefHeight="31.0" prefWidth="406.0" text="Меню нашего ресторана" textAlignment="CENTER" underline="true">
+      <Label fx:id="TitleLabel" contentDisplay="TOP" layoutX="377.0" layoutY="25.0" prefHeight="39.0" prefWidth="461.0" text="Меню нашего ресторана" textAlignment="CENTER" underline="true">
          <font>
             <Font name="Wingdings" size="30.0" />
          </font>
@@ -58,7 +58,7 @@
             </RadialGradient>
          </textFill>
       </Label>
-      <Label layoutX="71.0" layoutY="193.0" prefHeight="67.0" prefWidth="205.0" text="Салат Цезарь, цена - 20$">
+      <Label fx:id="CaesarLabel" layoutX="71.0" layoutY="193.0" prefHeight="67.0" prefWidth="205.0" text="Салат Цезарь, цена - 20$">
          <font>
             <Font size="15.0" />
          </font>
@@ -79,7 +79,7 @@
             </RadialGradient>
          </textFill>
       </Label>
-      <Label layoutX="326.0" layoutY="193.0" prefHeight="67.0" prefWidth="205.0" text="Салат Мимоза, цена - 35$">
+      <Label fx:id="MimozaLabel" layoutX="326.0" layoutY="193.0" prefHeight="67.0" prefWidth="205.0" text="Салат Мимоза, цена - 35$">
          <font>
             <Font size="15.0" />
          </font>
@@ -100,7 +100,7 @@
             </RadialGradient>
          </textFill>
       </Label>
-      <Label layoutX="632.0" layoutY="193.0" prefHeight="67.0" prefWidth="205.0" text="Салат Винегрет, цена - 10$">
+      <Label fx:id="VinegretLabel" layoutX="632.0" layoutY="193.0" prefHeight="67.0" prefWidth="205.0" text="Салат Винегрет, цена - 10$">
          <font>
             <Font size="15.0" />
          </font>
@@ -121,7 +121,7 @@
             </RadialGradient>
          </textFill>
       </Label>
-      <Label layoutX="893.0" layoutY="193.0" prefHeight="67.0" prefWidth="205.0" text="Салат Оливье, цена - 15$">
+      <Label fx:id="OlivieLabel" layoutX="893.0" layoutY="193.0" prefHeight="67.0" prefWidth="205.0" text="Салат Оливье, цена - 15$">
          <font>
             <Font size="15.0" />
          </font>
@@ -142,7 +142,7 @@
             </RadialGradient>
          </textFill>
       </Label>
-      <Label layoutX="71.0" layoutY="463.0" prefHeight="67.0" prefWidth="205.0" text="Салат Крабовый, цена - 35$">
+      <Label fx:id="CrabLabel" layoutX="71.0" layoutY="463.0" prefHeight="67.0" prefWidth="205.0" text="Салат Крабовый, цена - 35$">
          <font>
             <Font size="15.0" />
          </font>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/kpo_javafx/Controller/MainController.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/resourcesRU.properties" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>

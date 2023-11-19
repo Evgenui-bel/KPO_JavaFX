@@ -4,19 +4,17 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import com.example.kpo_javafx.Entity.EntityOrdersHistory;
 import com.example.kpo_javafx.Entity.EntitySalad;
-import com.example.kpo_javafx.HelloApplication;
 import com.example.kpo_javafx.Service.PriceService;
 import com.example.kpo_javafx.Service.RestaurantService;
 import javafx.fxml.FXML;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
-import javafx.stage.Stage;
+
 
 
 import java.io.*;
+import java.util.Locale;
+import java.util.ResourceBundle;
 
 public class MainController {
     static EntityOrdersHistory order = new EntityOrdersHistory();
@@ -40,10 +38,28 @@ public class MainController {
     @FXML
     private Button PriceTotalButton;
     @FXML
+    private Label CaesarLabel;
+
+    @FXML
+    private Label CrabLabel;
+
+    @FXML
+    private Label MimozaLabel;
+
+    @FXML
+    private Label OlivieLabel;
+
+    @FXML
+    private Label VinegretLabel;
+    @FXML
+    private Label TitleLabel;
+    @FXML
     private Label TotalPriceLabel;
 
     @FXML
     public void initialize() {
+        Localisation();
+        String buffer = TotalPriceLabel.getText();
         AddCezarButton.setOnAction(event -> {order.getOrderHistory().add(new EntitySalad("Цезарь", 300, 200, 20));});
         AddKrabButton.setOnAction(event -> {order.getOrderHistory().add(new EntitySalad("Крабовый", 600, 200, 35));});
         AddMimozaButton.setOnAction(event -> {order.getOrderHistory().add(new EntitySalad("Мимоза", 400, 200, 35));});
@@ -71,7 +87,7 @@ public class MainController {
             }
         });
         PriceTotalButton.setOnAction(event -> {
-            TotalPriceLabel.setText("Cумма к оплате: " + RestaurantService.totalPrice(order) + "$");
+            TotalPriceLabel.setText(buffer + " " + RestaurantService.totalPrice(order) + "$");
             try {
                 logger.info("Function for calling total price calculation");
                 PriceService.writePrice(RestaurantService.totalPrice(order));
@@ -80,5 +96,35 @@ public class MainController {
                 throw new RuntimeException(e);
             }
         });
+    }
+    public void Localisation () {
+        //Locale.setDefault(new Locale("EU","USA"));
+        //Locale.setDefault(new Locale("FR"));
+        Locale currentLocale = Locale.getDefault();
+        if (currentLocale.getLanguage().equals("ru")) {
+            SetCurrentLocale("resourcesRU");
+        }
+        if (currentLocale.getLanguage().equals("eu")) {
+            SetCurrentLocale("resourcesENG");
+        }
+         if (currentLocale.getLanguage().equals("fr")) {
+             SetCurrentLocale("resourcesFR");
+        }
+    }
+    public void SetCurrentLocale (String baseName) {
+        ResourceBundle bundle = ResourceBundle.getBundle(baseName);
+        AddCezarButton.setText(bundle.getString("AddCaesarButton"));
+        AddMimozaButton.setText(bundle.getString("AddMimozaButton"));
+        AddVinegretButton.setText(bundle.getString("AddVinegretButton"));
+        AddOlivieButton.setText(bundle.getString("AddOlivieButton"));
+        AddKrabButton.setText(bundle.getString("AddCrabButton"));
+        CaesarLabel.setText(bundle.getString("labelCaesar"));
+        CrabLabel.setText(bundle.getString("labelCrab"));
+        VinegretLabel.setText(bundle.getString("labelVinegret"));
+        OlivieLabel.setText(bundle.getString("labelOlivie"));
+        MimozaLabel.setText(bundle.getString("labelMimoza"));
+        TitleLabel.setText(bundle.getString("TitleLabel"));
+        PriceTotalButton.setText(bundle.getString("TotalPriceButton"));
+        TotalPriceLabel.setText(bundle.getString("TotalPriceLabel"));
     }
 }
